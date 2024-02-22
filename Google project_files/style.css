@@ -1,0 +1,56 @@
+body{
+    background-color: white;
+}
+
+
+    
+    
+
+.main{
+    margin: 100px;
+    text-align: center;
+
+}
+
+.logo{
+    display: block;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+
+
+}
+
+.input-search{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 500px;
+    border-radius: 24px;
+    line-height: 30px;
+    margin-top: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-left: 30px;
+    border-color: whitesmoke;
+    border-radius: 24px;
+}
+
+.btn{
+    margin-top: 100px;
+    background-color: rgb(249, 244, 244);
+    height: 35px;
+    width: 150px;
+    border: 2px bold blue;
+    border-radius: 24px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5x;
+    padding-left: 5px;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
